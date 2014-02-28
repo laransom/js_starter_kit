@@ -1,5 +1,4 @@
 var randomnumber=Math.floor(Math.random()*11);
-console.log(randomnumber);
 
 username = prompt("What is your name?");
 
